@@ -7,8 +7,6 @@ on:
   push:
     tags:
     - 'v*'
-  repository_dispatch:
-  workflow_dispatch:
   #  branches: 
   #    - master
 #  schedule:
